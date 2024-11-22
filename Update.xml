@@ -3,5 +3,5 @@
     <version>1.0.0.0</version>
     <url>https://laptrinhvb.net/TestAutoUpdate.zip</url>
     <changelog>https://laptrinhvb.net</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
